@@ -1,1 +1,3 @@
-# Fitzone-gym
+# fitzonegym
+
+A new Flutter project.
